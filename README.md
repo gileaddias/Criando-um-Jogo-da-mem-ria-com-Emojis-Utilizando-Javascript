@@ -10,7 +10,7 @@ Criando um Jogo de Memória com Emojis utilizando o Javascript e manipulando o C
 https://github.com/gileaddias/Criando-um-Jogo-da-mem-ria-com-Emojis-Utilizando-Javascript
 
 
-###Entendendo o Desafio
+### Entendendo o Desafio
  
 🎯 AGORA É A SUA VEZ
 
